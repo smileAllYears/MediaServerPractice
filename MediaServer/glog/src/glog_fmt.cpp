@@ -259,7 +259,7 @@ static void cleanHxLogFile(const std::string &logAppName, const std::vector<std:
     }
 }
 
-namespace PE {
+namespace ZLW {
     namespace LOG {
 
 
@@ -578,4 +578,4 @@ namespace PE {
             return ret;
         }
     }// namespace LOG
-}// namespace PE
+}// namespace ZLW

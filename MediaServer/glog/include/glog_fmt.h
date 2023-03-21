@@ -25,7 +25,7 @@ extern "C"
                                 int line,
                                 const char *data,
                                 int dataSize);
-    namespace PE {
+    namespace ZLW {
         namespace LOG {
             /**
              * Description : 初始化日志
@@ -129,7 +129,7 @@ extern "C"
 
 
         }// namespace LOG
-    }    // namespace PE
+    }    // namespace ZLW
 #ifdef __cplusplus
 }
 #endif
